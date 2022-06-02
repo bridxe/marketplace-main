@@ -1,0 +1,458 @@
+/*Extra small devices (portrait phones, less than 320px)*/
+@media  (max-width: 320px){
+	
+	
+	
+	
+	
+}
+/*Extra small devices (portrait phones, less than 360px)*/
+@media  (max-width: 360px){
+	
+	
+	
+	
+	
+	
+	
+	
+}
+/*Extra small devices (portrait phones, less than 375px)*/
+@media  (max-width: 375px){
+	
+	
+	
+	
+	
+	
+}
+/*Extra small devices (portrait phones, less than 414px)*/
+@media  (max-width: 414px){
+	
+	
+	
+	
+	
+	
+	
+}
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+header .navbar {
+    display: block;
+}
+header {
+    padding: 10px 0px;
+}
+header .navbar .collapse {
+    overflow-y: scroll !important;
+    max-height: 85vh !important;
+    padding-top: 30px;
+}
+header .dropdown-menu {
+    padding: 30px 30px;
+}
+header .dropdown-menu .item-nav ul li:last-child {
+    margin-bottom: 20px;
+}
+header .mt-5 {
+    margin-top: 1.5rem!important;
+}
+header .navbar .collapse ul li a {
+    font-size: 16px;
+    line-height: 22px;
+}
+.wrapper .wrapper-left-sidebar {
+    padding-top: 60px;
+    background: #FDF7FF;
+    height: auto;
+    position: static;
+    width: 100%;
+    max-width: 100%;
+    padding-bottom: 60px;
+}
+.wrapper {
+    padding-left: 0;
+    padding-bottom: 40px;
+    padding-top: 60px;
+}
+.wrapper .wrapper-left-sidebar ul li a {
+    padding: 20px 20px;
+    display: block;
+}
+
+.wrapper .wrapper-left-sidebar h2 {
+    padding-left: 20px;
+}
+.wrapper .wrapper-left-sidebar h4 {
+    padding-left: 20px;
+}
+.wrapper .wrapper-left-sidebar ul li a .arrow-right {
+    width: 0;
+    transition: all ease .5s;
+    width: 12px;
+    position: absolute;
+    right: 20px;
+}
+.wrapper .wrapper-right-main-body .account form {
+    padding-left: 0;
+}
+.wrapper .wrapper-right-main-body .account h1 {
+    font-size: 28px;
+    line-height: 38px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-left: 45px;
+    position: relative;
+}
+header .navbar .collapse ul li {
+    margin-right: 0;
+}
+.wrapper .wrapper-right-main-body .account form button {
+    margin-top: 0px;
+}
+.wrapper .connect-item ul li {
+    width: 414px;
+    margin-bottom: 20px;
+    max-width: 100%;
+    margin-right: 0;
+    display: block;
+}
+.wrapper .connect-item ul {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.wrapper .connect-item ul li a {
+    font-size: 20px;
+    line-height: 31px;
+    padding: 20px 24px;
+}
+.wrapper .account2 .box .item-1 {
+    padding: 15px 15px;
+    border-right: 0;
+}
+.wrapper .account2 .box .item3 .item4 {
+    padding: 15px 15px;
+    height: 100%;
+    min-height: 100%;
+}
+.wrapper .account2 .box .item3 .item4 h3 {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 18px;
+}
+.wrapper .account2 .box .item-2 {
+    padding: 20px 20px;
+    border-bottom: 2px solid #463254;
+    height: 100%;
+    border-right: 0;
+}
+
+.wrapper .wrapper-right-main-body .account form input, .wrapper .wrapper-right-main-body .account form select {
+    font-size: 16px;
+    line-height: 20px;
+    position: relative;
+}
+.shopping .hiden-button {
+    position: static;
+    height: 100%;
+}
+    
+.shopping .hiden-button .hide {
+    top: -15px;
+    left: auto;
+    transform: none;
+    width: 30px;
+    height: 29px;
+    background: #21062e;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    padding: 4px;
+    right: -10px;
+}   
+.shopping .item-box,.shopping .item-box {
+    border-right: 0;
+}
+
+.shopping .item3 {
+    padding: 20px;
+}    
+.shopping {
+    padding: 60px 0px;
+}
+
+.shopping h1 {
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+header .navbar {
+    display: block;
+}
+header {
+    padding: 10px 0px;
+}
+header .navbar .collapse {
+    overflow-y: scroll !important;
+    max-height: 100vh !important;
+    padding-top: 30px;
+}
+header .dropdown-menu {
+    padding: 30px 30px;
+}
+header .dropdown-menu .item-nav ul li:last-child {
+    margin-bottom: 20px;
+}
+header .mt-5 {
+    margin-top: 1.5rem!important;
+}
+header .navbar .collapse ul li a {
+    font-size: 16px;
+    line-height: 22px;
+}
+.wrapper .wrapper-left-sidebar {
+    padding-top: 60px;
+    background: #FDF7FF;
+    height: auto;
+    position: static;
+    width: 100%;
+    max-width: 100%;
+    padding-bottom: 60px;
+}
+.wrapper {
+    padding-left: 0;
+    padding-bottom: 0px;
+    padding-top: 60px;
+}
+.wrapper .wrapper-left-sidebar ul li a {
+    padding: 20px 20px;
+}
+.wrapper .wrapper-left-sidebar h2 {
+    padding-left: 20px;
+}
+.wrapper .wrapper-left-sidebar h4 {
+    padding-left: 20px;
+}
+.shopping .hiden-button {
+    position: static;
+    height: 100%;
+}
+    
+.shopping .hiden-button .hide {
+    top: -15px;
+    left: auto;
+    transform: none;
+    width: 30px;
+    height: 29px;
+    background: #21062e;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    padding: 4px;
+    right: -10px;
+}   
+.shopping .item-box,.shopping .item-box {
+    border-right: 0;
+}
+
+.shopping .item3 {
+    padding: 20px;
+}
+
+	.shopping {
+    padding: 80px 0px;
+}
+	
+	
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+header .navbar {
+    display: block;
+}
+header {
+    padding: 10px 0px;
+}
+header .navbar .collapse {
+    overflow-y: scroll !important;
+    max-height: 100vh !important;
+    padding-top: 30px;
+}
+header .dropdown-menu {
+    padding: 30px 30px;
+}
+header .dropdown-menu .item-nav ul li:last-child {
+    margin-bottom: 20px;
+}
+header .mt-5 {
+    margin-top: 1.5rem!important;
+}
+header .navbar .collapse ul li a {
+    font-size: 16px;
+    line-height: 22px;
+}
+.shopping .hiden-button {
+    position: static;
+    height: 100%;
+}
+	
+.shopping .hiden-button .hide {
+    top: -15px;
+    left: auto;
+    transform: none;
+    width: 30px;
+    height: 29px;
+    background: #21062e;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    padding: 4px;
+    right: -10px;
+}	
+.shopping .item-box,.shopping .item-box {
+    border-right: 0;
+}
+
+.shopping .item3 {
+    padding: 20px;
+}
+
+
+
+
+	
+	
+	
+}
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+header .navbar {
+    display: block;
+}
+header {
+    padding: 10px 0px;
+}
+header .navbar .collapse {
+    overflow-y: scroll !important;
+    max-height: 100vh !important;
+    padding-top: 30px;
+}
+header .dropdown-menu {
+    padding: 30px 30px;
+}
+header .dropdown-menu .item-nav ul li:last-child {
+    margin-bottom: 20px;
+}
+header .mt-5 {
+    margin-top: 1.5rem!important;
+}
+header .navbar .collapse ul li a {
+    font-size: 14px;
+    line-height: 22px;
+}
+.wrapper .wrapper-left-sidebar {
+    padding-top: 60px;
+    background: #FDF7FF;
+    height: auto;
+    position: static;
+    width: 100%;
+    max-width: 100%;
+    padding-bottom: 60px;
+}
+.wrapper {
+    padding-left: 0;
+    padding-bottom: 0px;
+    padding-top: 60px;
+}
+.wrapper .wrapper-left-sidebar ul li a {
+    padding: 20px 20px;
+}
+.wrapper .wrapper-left-sidebar h2 {
+    padding-left: 20px;
+}
+.wrapper .wrapper-left-sidebar h4 {
+    padding-left: 20px;
+}
+.shopping .item3 #field1 input {
+    width: 50%;
+}
+header .navbar .collapse ul li {
+    margin-right: 20px;
+}
+.shopping .hiden-button .hide {
+    left: 0;
+}
+
+
+
+
+
+
+
+	
+	
+}
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1439.98px) {
+    
+    
+	
+	
+	
+	
+}
+
+
+
+/*// Extra large devices (large desktops, 1440px and up)*/
+@media (min-width: 1440px) and (max-width: 1699.98px){}
+
+
+
+
+
+/*// Extra large devices (large desktops, 1440px and up)*/
+@media (min-width: 1700px) and (max-width: 2099.98px){
+	
+	
+	
+	
+	
+	
+}
+
+
+
+/*// Extra large devices (large desktops, 1440px and up)*/
+@media (min-width: 2100px){
+	
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
