@@ -26,6 +26,12 @@
         <link rel="stylesheet" href="css/style.css">
         <!-- Responsive midea css -->
         <link rel="stylesheet" href="css/media.css">
+        
+         <!-- Script to initalize Moralis -->
+        <script src="https://unpkg.com/moralis/dist/moralis.js"></script>
+        <!-- Script to initalize WalletConnect -->    
+        <script src="https://github.com/WalletConnect/walletconnect-monorepo/releases/download/1.7.1/web3-provider.min.js"></script>
+        
         <title>BridXe</title>
     </head>
     <body>
@@ -310,8 +316,9 @@
                     <h1 class="text-uppercase"><a href="index.html" class="d-lg-none d-inline-block mr-2"><img src="img/arrow-left.svg" alt="img" class="img-fluid"></a> connect wallet</h1>
                     <div class="connect-item">
                         <ul>
-                            <li><a href="">metamask <img src="img/metamask.svg" alt="img" class="img-fluid"></a></li>
-                            <li><a href="">walletconnect <img src="img/WalletConnect.svg" alt="img" class="img-fluid"></a></li>
+                            
+                            <li><a id = "metamask-login" href="">metamask <img src="img/metamask.svg" alt="img" class="img-fluid"></a></li>
+                            <li><a id = "WC-Login" href="">walletconnect <img src="img/WalletConnect.svg" alt="img" class="img-fluid"></a></li>
                             
                         </ul>
                         <ul>
